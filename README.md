@@ -1,2 +1,8 @@
-esses são meus primeiros projetos, sei que são muitos simples mas estou com 3 semanas de estudo
+# Primeiros códigos em Python
+
+Este repositório contém meus primeiros exercícios de programação em Python.
+## Objetivo
+
+Aprender lógica de programação e Python.
+
 
