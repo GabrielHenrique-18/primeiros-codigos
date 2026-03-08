@@ -1,6 +1,7 @@
 #gabriel
 #05/03
 #entrada de dados
+#calculo de lucro e margem de lucro
 V=float(input("coloque o valor da venda em R$: "))
 C=float(input("coloque o custo de fabricação do produto em R$: "))
 #Processamento de dados

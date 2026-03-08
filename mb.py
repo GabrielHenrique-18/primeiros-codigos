@@ -2,6 +2,7 @@
 #umc 
 6/3
 #entrada de dados
+#calculo de tempo de download de um arquivo
 A=float(input("coloque o tamanho do arquivo em MB, ex para 20GB coloque 20000: "))
 V=float(input("Coloque a velocidade da conexão em bits por segundo:" ))
 #processamento de dados

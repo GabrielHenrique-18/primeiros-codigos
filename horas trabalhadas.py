@@ -1,6 +1,7 @@
 #gabriel henrique 
 #umc
 #ENTRADA DE DADOS
+#calculo de salario a receber com desconto de imposto
 horas_trabalhadas=float(input("coloque aqui o total de horas trabalhadas:"))
 salario_minimo=float(input("Coloque o valor do salario minimo a ser recebido:"))
 #processamento de dados

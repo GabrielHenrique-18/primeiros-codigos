@@ -1,6 +1,7 @@
 #gabriel henrique 
 #umc
 #ENTRADA DE DADOS
+#calculo de consumo medio de um veiculo
 D=float(input("Coloque a distancia percorrida em KM:"))
 L=float(input("Digite o combustivel consumido em litros:"))
 #Processamento de dados

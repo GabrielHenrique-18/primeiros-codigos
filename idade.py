@@ -1,6 +1,7 @@
 #gabriel henrique 
 #umc
 #entrada de dados
+#calculo de idade atual e idade em 2030
 NAS=int(input("insira o seu ano de nascimento:"))
 ATU=int(input("insira o ano atual:"))
 #processamento de dados

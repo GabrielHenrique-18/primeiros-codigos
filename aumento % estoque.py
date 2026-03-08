@@ -1,6 +1,7 @@
 #gabriel
 #05/03
 #entrada de dados
+#Aumento de estoque em porcentagem
 EA=int(input("coloque a quantidade atual do produto no estoque: "))
 P=float(input("coloque a porcentagem de aumento: "))
 #processamento de dados

@@ -1,6 +1,7 @@
 #gabriel henrique 
 #umc
 #entrada de dados
+#calculo de aumento de uma aplicação em porcentagem
 S=float(input("coloque o salario atual do funcionario:"))
 P=float(input("coloque a porcentagem de aumento, ex para 30,25 escreva 30.25:"))
 #Processamento de dados
